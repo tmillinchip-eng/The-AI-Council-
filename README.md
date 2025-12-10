@@ -34,7 +34,7 @@ This application features four AI personas based on prominent thinkers:
 
 2. Set your Gemini API key in `.env.local`:
    ```bash
-   API_KEY=your_gemini_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
    Get your API key from: https://aistudio.google.com/apikey
 
@@ -43,7 +43,7 @@ This application features four AI personas based on prominent thinkers:
    npm run dev
    ```
 
-4. Open your browser to `http://localhost:5173`
+4. Open your browser to `http://localhost:3000`
 
 ## Usage
 
